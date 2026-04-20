@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <data-extraction-rules>
+        <cloud-backup disableIfUnsupported="true">
+            <include domain="file" path="."/>
+            <exclude domain="cache" path="."/>
+        </cloud-backup>
+        <device-transfer-setup disableIfUnsupported="true">
+            <include domain="file" path="."/>
+            <exclude domain="cache" path="."/>
+        </device-transfer-setup>
+    </data-extraction-rules>
+</resources>
