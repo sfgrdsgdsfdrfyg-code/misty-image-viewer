@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mistyimageviewer.app-mergeDebugResources-44:/values-ko/values-ko.xml",
+            "outputFile": "me.thedev.oliik2013.mistyimageviewer.app-mergeDebugResources-44:/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/home/oliik2013/.gradle/caches/transforms-3/231b281316482961d1f1ff9690756bf0/transformed/jetified-material3-1.1.1/res/values-ko/values-ko.xml",

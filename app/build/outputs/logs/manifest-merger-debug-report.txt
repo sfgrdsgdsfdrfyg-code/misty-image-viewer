@@ -112,7 +112,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/oliik
 		ADDED from /home/oliik2013/.openclaw/workspace/MistyImageViewer/app/src/main/AndroidManifest.xml:15:9-54
 	android:dataExtractionRules
 		ADDED from /home/oliik2013/.openclaw/workspace/MistyImageViewer/app/src/main/AndroidManifest.xml:9:9-65
-activity#com.example.mistyimageviewer.MainActivity
+activity#me.thedev.oliik2013.mistyimageviewer.MainActivity
 ADDED from /home/oliik2013/.openclaw/workspace/MistyImageViewer/app/src/main/AndroidManifest.xml:17:9-27:20
 	android:label
 		ADDED from /home/oliik2013/.openclaw/workspace/MistyImageViewer/app/src/main/AndroidManifest.xml:20:13-45
@@ -286,7 +286,7 @@ ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms
 		ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
-permission#com.example.mistyimageviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#me.thedev.oliik2013.mistyimageviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
@@ -296,7 +296,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
-uses-permission#com.example.mistyimageviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#me.thedev.oliik2013.mistyimageviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.12.0] /home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/AndroidManifest.xml:26:22-94

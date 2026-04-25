@@ -1,4 +1,4 @@
-package com.example.mistyimageviewer.ui.theme
+package me.thedev.oliik2013.mistyimageviewer.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mistyimageviewer.app-mergeDebugResources-44:/values-th/values-th.xml",
+            "outputFile": "me.thedev.oliik2013.mistyimageviewer.app-mergeDebugResources-44:/values-th/values-th.xml",
             "map": [
                 {
                     "source": "/home/oliik2013/.gradle/caches/transforms-3/e3571662a0f54c392883d9e620f48f1f/transformed/jetified-ui-release/res/values-th/values-th.xml",

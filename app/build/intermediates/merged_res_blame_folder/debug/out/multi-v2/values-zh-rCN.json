@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mistyimageviewer.app-mergeDebugResources-44:/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "me.thedev.oliik2013.mistyimageviewer.app-mergeDebugResources-44:/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "/home/oliik2013/.gradle/caches/transforms-3/4c4117c37b252038aa92254e8701e6e6/transformed/jetified-foundation-release/res/values-zh-rCN/values-zh-rCN.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mistyimageviewer.app-mergeDebugResources-44:/values-as/values-as.xml",
+            "outputFile": "me.thedev.oliik2013.mistyimageviewer.app-mergeDebugResources-44:/values-as/values-as.xml",
             "map": [
                 {
                     "source": "/home/oliik2013/.gradle/caches/transforms-3/9792fb5f9211965b6a257218718f5d13/transformed/core-1.12.0/res/values-as/values-as.xml",

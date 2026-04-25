@@ -1,4 +1,4 @@
-com.example.mistyimageviewer
+me.thedev.oliik2013.mistyimageviewer
 attr alpha
 attr font
 attr fontProviderAuthority
